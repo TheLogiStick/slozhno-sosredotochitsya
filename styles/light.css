@@ -11,7 +11,7 @@
   */
 	--title-color: #ffc2e6;
 	--accent-color: #ff8dcb;
-	--rec-color: #ffeef6;
+	--rec-color: transparent;
 	--additional-color: #353430;
 	--text-color: #353430;
 	--tertiary-title-color: #353430;
@@ -21,7 +21,7 @@
 	:root {
 		--title-color: #ffc2e6;
 		--accent-color: #ff8dcb;
-		--rec-color: #ffeef6;
+		--rec-color: transparent;
 		--additional-color: #353430;
 		--text-color: #353430;
 		--tertiary-title-color: #353430;
