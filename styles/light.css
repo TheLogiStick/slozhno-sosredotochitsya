@@ -17,6 +17,7 @@
 	--text-color: #353430;
 	--tertiary-title-color: #353430;
 	--bcg-image: url(./../images/cover-image-light.png);
+	--bcg-color: #fff1f7;
 }
 @media (prefers-color-scheme: light) {
 	:root {
@@ -28,5 +29,6 @@
 		--text-color: #353430;
 		--tertiary-title-color: #353430;
 		--bcg-image: url(./../images/cover-image-light.png);
+		--bcg-color: #fff1f7;
 	}
 }

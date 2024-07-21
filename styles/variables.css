@@ -13,6 +13,7 @@
 	--tertiary-title-color: #000028;
 	--section-offset: 80px;
 	--bcg-image: url(./../images/cover-image-dark.png);
+	--bcg-color: #000028;
 }
 
 @media (width <= 700px) {
