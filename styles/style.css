@@ -34,7 +34,7 @@
 	text-shadow: 4px 4px var(--accent-color);
 }
 
-.secondary__title {
+.secondary-title {
 	max-width: 315px;
 	width: 100%;
 	font-weight: 700;
@@ -58,6 +58,7 @@
 
 .grid-list {
 	display: grid;
+	grid-template-columns: 315px 1fr;
 	gap: 20px;
 }
 
@@ -194,18 +195,10 @@
 
 .why {
 	margin-top: 60px;
-	grid-template-columns: 315px 1fr;
 }
 
-.what {
-	grid-template-columns: 1fr;
-}
 .what__list {
 	grid-template-columns: repeat(3, 1fr);
-}
-
-.how {
-	grid-template-columns: 315px 1fr;
 }
 
 .how__content-title {
