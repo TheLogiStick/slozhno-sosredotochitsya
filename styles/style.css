@@ -274,14 +274,21 @@
 		grid-template-columns: 236px 1fr;
 	}
 
+	.header {
+		padding-right: 20px;
+	}
+
 	.header__theme-menu {
 		justify-self: end;
 		align-self: center;
-		margin-right: 20px;
 	}
 
 	.header__theme-menu-list {
 		flex-direction: column;
+	}
+
+	.header__text-container {
+		margin: 0;
 	}
 
 	.header__text {
@@ -327,14 +334,6 @@
 
 	.header {
 		padding: 10px;
-	}
-
-	.header__theme-menu {
-		margin: 0;
-	}
-
-	.header__text-container {
-		margin: 0;
 	}
 
 	.header__text {
